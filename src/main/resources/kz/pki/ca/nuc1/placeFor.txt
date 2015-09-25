@@ -1,0 +1,1 @@
+Please copy files (new_NCA_GOST.cer, new_NCA_RSA.cer) from SDK "Kalkan" to this directory.

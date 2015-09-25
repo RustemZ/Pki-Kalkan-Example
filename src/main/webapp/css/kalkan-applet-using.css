@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 6, 2015, 5:45:53 PM
+    Author     : r.zhunusov
+*/
+
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse ; 
+   
+}
+
+td {
+   padding: 6px;
+}
+
+.ldw-btn-in-text {
+    font-weight: bold;
+    
+}
+
+.ldw-log-error{
+    color:  mediumvioletred;
+    font-weight: bold; 
+}
+
+.ldw-log-info{
+    color:  deepskyblue;
+    font-weight: bold; 
+}
+.ldw-txt-private-key{
+    
+    
+}
