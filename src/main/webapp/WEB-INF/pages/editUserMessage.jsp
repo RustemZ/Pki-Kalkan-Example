@@ -13,7 +13,6 @@
         
         <link type="text/css" rel="stylesheet" charset="UTF-8" href="css/kalkan-applet-using.css">
         <script type="text/javascript" src="js/kalkan-applet-using.js"></script>
-        <!--script type="text/javascript" src="js/jquery-1.11.3.js"></script-->
         <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     </head>
     <body>
